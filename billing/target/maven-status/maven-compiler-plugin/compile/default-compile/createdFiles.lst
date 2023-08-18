@@ -12,5 +12,4 @@ com/paymentchain/billing/exception/ApiExceptionHandler.class
 com/paymentchain/billing/common/InvoiceRequestMapper.class
 com/paymentchain/billing/common/SecurityConfiguration.class
 com/paymentchain/billing/respository/InvoiceRepository.class
-.netbeans_automatic_build
 com/paymentchain/billing/common/InvoiceResposeMapper.class
